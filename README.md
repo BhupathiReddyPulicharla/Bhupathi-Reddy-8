@@ -1,1 +1,16 @@
-# Bhupathi-Reddy-8
+In Excel 2013, data functions help you locate specified data from your lists of data. For example, if you have a worksheet that has a list of a thousand of your employees, along with their ages, you can use a data function to find an employee's location in a worksheet.
+A complete list of all Excel functions in alphabetical order. ... To get detailed information about a function, click its name in the first column.
+Functions are predefined formulas in Excel. They eliminate laborious manual entry of formulas while giving them human-friendly names.
+Excel RANK function can be used when you want to rank a number against a list of numbers. It returns a number that represents the relative rank of the number
+Click Review > Protect Workbook. Note: The Windows option is available only in Excel 2007, Excel 2010, Excel for Mac 2011, and Excel 2016 for Mac. ...
+Enter a password in the Password box. ...
+Select OK, re-enter the password to confirm it, and then select OK again.
+On the Review tab, click Protect Sheet. In the Allow all users of this worksheet to list, select the elements you want people to be able to change. Move the pointer to cells for which the Locked box is checked on the Protection tab of the Format Cells dialog box. By default, users are allowed to select locked cells.
+As Microsoft Office now uses AES-256, you can rest assured that the password protection on your Excel spreadsheet is trustworthy and impossible to break using current technology. As the integrated password protection only handles one file at a time, you might also consider the 7-Zip encryption option.
+This protects the structure of the workbook, and limits how the user can change the sheets inside of it. To turn on this protection, go to the Review tab on Excel's ribbon and click on Protect Workbook. Find the Review tab, click on Protect Workbook, and set a password to protect the structure of your Excel workbook
+A pivot table is a statistics tool that summarizes and reorganizes selected columns and rows of data in a spreadsheet or database table to obtain a desired report. The tool does not actually change the spreadsheet or database itself, it simply “pivots” or turns the data to view it from different perspectives.
+A Pivot Table is used to summarise, sort, reorganise, group, count, total or average data stored in a table. It allows us to transform columns into rows 
+Use LOOKUP, one of the lookup and reference functions, when you need to look in a single row or column and find a value from the same position in a second row or column. For example, let's say you know the part number for an auto part, but you don't know the price.
+Lookup functions in Excel mean referencing a cell to match values in another row or column against the cell and thereby retrieving the corresponding results from the respective rows and columns.
+Lookup functions in Excel mean referencing a cell to match values in another row or column against the cell and thereby retrieving the corresponding results from the respective rows and columns.
+(LUT) is used to transform the input data into a more desirable output format. For example, a grayscale picture of the planet Saturn will be transformed into a color image to emphasize the differences in its rings
